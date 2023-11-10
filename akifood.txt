@@ -1,0 +1,33 @@
+Food Guessing Akinator
+Guess a food cuisine at the start of the game and answer some questions for it. This akinator bot will try and guess the cuisine.
+50 Is it Indian? (Y/N)
+25 Is it form Southen India? (Y/N) 
+12 Is it Coastal? (Y/N)
+6 Is Coconut a prominent Ingridient? (Y/N)
+3  Its Kerala Cuisine.
+7  Its Tamil Cuisine.
+23 Does it include Tomato Rice? (Y/N)
+20 Its Karnatak Cuisine.
+24 Its Andra Cuisine.
+40 Is it from Eastern India? (Y/N) 
+30 Does it include Fish? (Y/N)
+26 Its Bengali Cuisine.
+35 Its Uttrakhand Cuisine.
+48 Does it use Basen as a prominent Ingridient? (Y/N)
+45 Its Rajasthani Cuisine.
+49 Its Maharastran Cuisine.
+100 Does it have an Asian Origin? (Y/N)
+60 Is it Stir Fried? (Y/N)
+55 Is it Traditional Food? (Y/N)
+51 Its Chinese Cuisine.
+59 Its Korean Cuisine.
+65 Is it Curry Based? (Y/N)
+62 Its Thai Cuisine.
+70 Its Japanese Cuisine.
+120 Is it Grilled? (Y/N)
+110 Is it Open Flame Grilled? (Y/N)
+105 Its South African Cuisine.
+115 Its Turkish Cuisine.
+130 Is it Fried? (Y/N)
+125 Its Amarican Cuisine.
+135 Its Italian Cuisine.
